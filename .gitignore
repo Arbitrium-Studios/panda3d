@@ -1,0 +1,43 @@
+# GitHub WILL ignore these folders:
+
+venv/
+local/
+build/
+deployment/
+FantasyLevelEditor/
+users/
+Housekeeper/
+news/
+resources/
+dependencies/panda3d/
+
+# GitHub WILL ignore these files:
+
+.idea
+!win32/.vscode/tasks.json
+!linux/.vscode/tasks.json
+!darwin/.vscode/tasks.json
+errorCode
+Start Toontown Fantasy.lnk
+
+# GitHub WILL ignore these file extensions:
+
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.so
+*.json
+*.DS_Store
+*.buildings
+*.trackRecords
+*.egg
+*.txt
+*.cfg
+*.mf
+*.yaml
+*.lnk
+*.bam
+*.ogg
+*.jpg
+*.rgb
