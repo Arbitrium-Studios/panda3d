@@ -1,4 +1,4 @@
-1713074978
+1759647852
 3 3
 10 libp3tform 4 v_mB 12 panda3d.core 
 259
@@ -1280,7 +1280,7 @@ inline bool MouseWatcher::is_button_down(ButtonHandle button) const;
  * Similar to is_button_down(), but uses the raw button handle as reported by
  * the raw- prefixed events, and is not subject to the inactivity timer.
  *
- * @since 1.11.1
+ * @since 1.11.2
  */
 72
 inline bool MouseWatcher::is_raw_button_down(ButtonHandle button) const;
@@ -2760,7 +2760,7 @@ Transform2SG::~Transform2SG(void);
  * Similar to is_button_down(), but uses the raw button handle as reported by
  * the raw- prefixed events, and is not subject to the inactivity timer.
  *
- * @since 1.11.1
+ * @since 1.11.2
  */ 2 4 this 3 614  6 button 1 621  
 160 0 0 4 209 561 0 0 432 /**
  * Sets the pattern string that indicates how the event names are generated

@@ -30,8 +30,8 @@
    This special exception was added by the Free Software Foundation in
    version 2.2 of Bison.  */
 
-#ifndef YY_XYY_BUILT_X64_TMP_XPARSER_YXX_H_INCLUDED
-# define YY_XYY_BUILT_X64_TMP_XPARSER_YXX_H_INCLUDED
+#ifndef YY_XYY_BUILT_X64_TMP_XPARSER_H_INCLUDED
+# define YY_XYY_BUILT_X64_TMP_XPARSER_H_INCLUDED
 /* Enabling traces.  */
 #ifndef YYDEBUG
 # define YYDEBUG 0
@@ -136,4 +136,4 @@ int xyyparse ();
 #endif
 #endif /* ! YYPARSE_PARAM */
 
-#endif /* !YY_XYY_BUILT_X64_TMP_XPARSER_YXX_H_INCLUDED  */
+#endif /* !YY_XYY_BUILT_X64_TMP_XPARSER_H_INCLUDED  */

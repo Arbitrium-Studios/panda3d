@@ -30,8 +30,8 @@
    This special exception was added by the Free Software Foundation in
    version 2.2 of Bison.  */
 
-#ifndef YY_DNAYY_BUILT_X64_TMP_DNAPARSER_YXX_H_INCLUDED
-# define YY_DNAYY_BUILT_X64_TMP_DNAPARSER_YXX_H_INCLUDED
+#ifndef YY_DNAYY_BUILT_X64_TMP_DNAPARSER_H_INCLUDED
+# define YY_DNAYY_BUILT_X64_TMP_DNAPARSER_H_INCLUDED
 /* Enabling traces.  */
 #ifndef YYDEBUG
 # define YYDEBUG 0
@@ -190,4 +190,4 @@ int dnayyparse ();
 #endif
 #endif /* ! YYPARSE_PARAM */
 
-#endif /* !YY_DNAYY_BUILT_X64_TMP_DNAPARSER_YXX_H_INCLUDED  */
+#endif /* !YY_DNAYY_BUILT_X64_TMP_DNAPARSER_H_INCLUDED  */

@@ -1,4 +1,4 @@
-1713075020
+1759647892
 3 3
 12 libp3collide 4 dlaq 12 panda3d.core 
 272
@@ -158,9 +158,11 @@ inline LPoint3 CollisionBox::get_point(int n) const;
 52
 inline int CollisionBox::get_num_planes(void) const;
 
-305 9 set_plane 0 4 564 23 CollisionBox::set_plane 0 1 21 57
+305 9 set_plane 0 4 564 23 CollisionBox::set_plane 0 1 21 96
 /**
  * Creates the nth face of the rectangular solid.
+ *
+ * @deprecated Same as get_plane().
  */
 51
 inline LPlane CollisionBox::set_plane(int n) const;
@@ -2351,8 +2353,10 @@ CollisionSegment::~CollisionSegment(void);
 20 0 0 6 30 579 0 0 65 /**
  * Returns 6: the number of faces of a rectangular solid.
  */ 1 4 this 3 636  
-21 0 0 7 31 638 0 0 57 /**
+21 0 0 7 31 638 0 0 96 /**
  * Creates the nth face of the rectangular solid.
+ *
+ * @deprecated Same as get_plane().
  */ 2 4 this 3 636  1 n 1 579  
 22 0 0 7 32 638 0 0 57 /**
  * Returns the nth face of the rectangular solid.

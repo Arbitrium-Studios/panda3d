@@ -30,8 +30,8 @@
    This special exception was added by the Free Software Foundation in
    version 2.2 of Bison.  */
 
-#ifndef YY_VRMLYY_BUILT_X64_TMP_VRMLPARSER_YXX_H_INCLUDED
-# define YY_VRMLYY_BUILT_X64_TMP_VRMLPARSER_YXX_H_INCLUDED
+#ifndef YY_VRMLYY_BUILT_X64_TMP_VRMLPARSER_H_INCLUDED
+# define YY_VRMLYY_BUILT_X64_TMP_VRMLPARSER_H_INCLUDED
 /* Enabling traces.  */
 #ifndef YYDEBUG
 # define YYDEBUG 0
@@ -131,7 +131,7 @@ typedef union YYSTYPE
 
 
 /* Line 2058 of yacc.c  */
-#line 135 "built_x64/tmp/vrmlParser.yxx.h"
+#line 135 "built_x64/tmp/vrmlParser.h"
 } YYSTYPE;
 # define YYSTYPE_IS_TRIVIAL 1
 # define yystype YYSTYPE /* obsolescent; will be withdrawn */
@@ -154,4 +154,4 @@ int vrmlyyparse ();
 #endif
 #endif /* ! YYPARSE_PARAM */
 
-#endif /* !YY_VRMLYY_BUILT_X64_TMP_VRMLPARSER_YXX_H_INCLUDED  */
+#endif /* !YY_VRMLYY_BUILT_X64_TMP_VRMLPARSER_H_INCLUDED  */

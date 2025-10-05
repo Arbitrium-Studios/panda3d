@@ -1,6 +1,6 @@
 "Python bindings for the Panda3D libraries"
 
-__version__ = '1.11.1'
+__version__ = '1.11.2'
 
 if __debug__:
     if 1 / 2 == 0:

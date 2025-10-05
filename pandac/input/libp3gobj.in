@@ -1,4 +1,4 @@
-1713074569
+1759647675
 3 3
 9 libp3gobj 4 qQJq 12 panda3d.core 
 1579
@@ -13851,7 +13851,7 @@ inline Texture *TextureContext::get_texture(void) const;
 
 3081 8 get_view 0 4 3366 24 TextureContext::get_view 0 1 1501 54
 /**
- * @deprecated since 1.11.1: always returns 0.
+ * @deprecated since 1.11.2: always returns 0.
  */
 48
 inline int TextureContext::get_view(void) const;
@@ -22282,7 +22282,7 @@ TextureStagePool::~TextureStagePool(void);
  * Returns the pointer to the associated Texture object.
  */ 1 4 this 3 3684  
 1501 0 0 6 1848 3212 0 0 54 /**
- * @deprecated since 1.11.1: always returns 0.
+ * @deprecated since 1.11.2: always returns 0.
  */ 1 4 this 3 3684  
 1502 0 0 6 1849 3334 0 0 198 /**
  * Returns an implementation-defined handle or pointer that can be used

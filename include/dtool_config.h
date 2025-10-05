@@ -42,7 +42,6 @@
 #define HAVE_IOS_BINARY 1
 #define HAVE_IOS_TYPEDEFS 1
 #define HAVE_JPEG 1
-#define HAVE_MAYA 1
 #undef HAVE_MIMALLOC
 #define HAVE_NET 1
 #undef HAVE_OPENAL_FRAMEWORK
